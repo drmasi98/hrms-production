@@ -1,0 +1,16 @@
+.env
+*.log
+*.sql
+*.sql.gz
+*.tar
+*.zip
+
+backups/*
+!backups/.gitkeep
+
+docs/*.pdf
+
+.vscode/
+.idea/
+
+.DS_Store
